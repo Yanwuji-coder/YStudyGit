@@ -101,7 +101,7 @@ public static void deleteData() {//删除数据操作
         Statement stmt = con.createStatement();//创建Statement对象
         stmt.executeUpdate("delete from sys_merch where merch_no = 1 ");
         } catch (Exception e) {
-        e.printStackTrace( );
+        e.printStackTrace();
         }
         }
 }
