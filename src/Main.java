@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class Main{
+    /**
+     * test
+     * @param args
+     */
     public static void main (String[]  args){
         Scanner scanner = new Scanner(System.in);
         double m = scanner.nextDouble();
