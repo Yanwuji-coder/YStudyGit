@@ -1,0 +1,16 @@
+/target/
+/log/
+/doc/
+bin/
+build/
+.settings/
+.gradle/
+.classpath
+.project
+.git/
+.settings/
+catalina*
+/logs/
+.iml
+.idea
+out/
